@@ -1,11 +1,12 @@
-import org.junit.Test;
-import static org.junit.Assert.*;
+//import org.junit.Test;
+//import static org.junit.Assert.*;
 
 public class HelloWorldTest {
   
-  @Test
+  //@Test
   public void helloTest() {
     String helloWorld = "helloWorld";
-    assertEquals("helloWorld", helloWorld);
+    //assertEquals("helloWorld", helloWorld);
+    System.out.println("helloWorld!");
   }
 }
