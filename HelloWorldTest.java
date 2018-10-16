@@ -9,4 +9,8 @@ public class HelloWorldTest {
     //assertEquals("helloWorld", helloWorld);
     System.out.println("helloWorld!");
   }
+  
+  public static void main() {
+    System.out.println("helloWorld!");
+  }
 }
